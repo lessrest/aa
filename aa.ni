@@ -3,7 +3,7 @@
 The story headline is "An Evening at the Carlyle".
 The story genre is "Drama".
 The story creation year is 2026.
-The release number is 10.
+The release number is 11.
 
 Use full-length room descriptions.
 Use scoring.
@@ -82,7 +82,7 @@ The bar windows are scenery in Bemelmans Bar. The description is "The November d
 
 Catherine's drink is scenery in Bemelmans Bar. The description is "Something clear with a twist of something pale—lime, probably, a thin crescent resting against the glass like a parenthetical remark. She ordered it before you arrived. She will order another after you leave, or she will not, and neither outcome will have anything to do with you. The drink is hers the way her name is hers, the way her evening is hers—you are a guest in all of it, and the method's deepest confusion is the belief that the guest can become the host." Understand "her drink" or "her glass" or "clear drink" or "vodka" or "twist" as Catherine's drink.
 
-Margaux's martini is scenery in Bemelmans Bar. The description is "She holds it with [if the social posture of Margaux is socially-open]both hands now, the glass cradled rather than wielded, the olive sitting at the bottom like a small green period at the end of a sentence she has decided to finish[otherwise]one hand, the stem between her fingers, the glass positioned at exactly the height of casual conversation, which is to say the height of a barrier that pretends to be a gesture[end if]. The method calls her the obstacle. Her drink is the obstacle's obstacle." Understand "martini" or "olive" as Margaux's martini.
+Margaux's martini is scenery in Bemelmans Bar. The description is "She holds it with [if the social-posture of Margaux is socially-open]both hands now, the glass cradled rather than wielded, the olive sitting at the bottom like a small green period at the end of a sentence she has decided to finish[otherwise]one hand, the stem between her fingers, the glass positioned at exactly the height of casual conversation, which is to say the height of a barrier that pretends to be a gesture[end if]. The method calls her the obstacle. Her drink is the obstacle's obstacle." Understand "martini" or "olive" as Margaux's martini.
 
 The pianist's water glass is scenery in Bemelmans Bar. The description is "A plain glass of water, no ice, sitting on the piano's closed music stand. He takes a sip between songs—never during, never rushing, a sip that is part of the rhythm the way a rest is part of the music. The water is the most ordinary thing in this room. He drinks it the way he plays—without performance, without self-consciousness, with the calm of a man who has been doing this so long that even his thirst has become a kind of grace." Understand "water" or "water glass" as the pianist's water glass.
 
@@ -118,17 +118,17 @@ The tip dish is scenery in the Restroom. The description is "A small porcelain d
 
 Section 6 - The Corner
 
-The Carlyle Corner is east of East Seventy-Sixth Street. The printed name of the Carlyle Corner is "The Corner of Seventy-Sixth and Madison". "The corner of Seventy-Sixth and Madison. The traffic light changes from green to yellow to red and back again, performing its sequence for an audience of no one. The method is not the only system that runs whether or not anyone is watching. The city is full of systems—traffic lights, subway schedules, the opening and closing of automatic doors—all of them cycling through their sequences with the same blind faith in the sequence that brought you here tonight.
+Carlyle Corner is east of East Seventy-Sixth Street. The printed name of Carlyle Corner is "The Corner of Seventy-Sixth and Madison". "The corner of Seventy-Sixth and Madison. The traffic light changes from green to yellow to red and back again, performing its sequence for an audience of no one. The method is not the only system that runs whether or not anyone is watching. The city is full of systems—traffic lights, subway schedules, the opening and closing of automatic doors—all of them cycling through their sequences with the same blind faith in the sequence that brought you here tonight.
 
 The Carlyle is to the west, its awning a dark green brushstroke in the amber streetlight. Madison Avenue runs north and south."
 
-The traffic light is scenery in the Carlyle Corner. The description is "Green. Yellow. Red. Green. Yellow. Red. The cycle is sixty seconds. The cycle does not care that no one is crossing. The cycle is the city's most honest performance—a system that does exactly what it was built to do, for no audience, with no score. You watch it change three times. You are aware that watching a traffic light change is not a move in any sequence you know. This is either wasted time or the most valuable thing you have done all night. The traffic light does not distinguish." Understand "light" or "traffic" or "signal" as the traffic light.
+The traffic light is scenery in Carlyle Corner. The description is "Green. Yellow. Red. Green. Yellow. Red. The cycle is sixty seconds. The cycle does not care that no one is crossing. The cycle is the city's most honest performance—a system that does exactly what it was built to do, for no audience, with no score. You watch it change three times. You are aware that watching a traffic light change is not a move in any sequence you know. This is either wasted time or the most valuable thing you have done all night. The traffic light does not distinguish." Understand "light" or "traffic" or "signal" as the traffic light.
 
-The street trees are scenery in the Carlyle Corner. The description is "Bare. November. The branches make a kind of calligraphy against the sky that you would not notice if you were calculating your next move. You are not calculating your next move. The branches are beautiful the way things are beautiful when you stop assigning them a function." Understand "trees" or "tree" or "branches" as the street trees.
+The street trees are scenery in Carlyle Corner. The description is "Bare. November. The branches make a kind of calligraphy against the sky that you would not notice if you were calculating your next move. You are not calculating your next move. The branches are beautiful the way things are beautiful when you stop assigning them a function." Understand "trees" or "tree" or "branches" as the street trees.
 
 Section 7 - Madison Avenue
 
-Madison Avenue North is north of the Carlyle Corner. The printed name of Madison Avenue North is "North on Madison". "Madison Avenue, looking north. The sidewalk stretches ahead in that particular Upper East Side way—wide, clean, canopied by bare trees. Gallery windows, dark. A pharmacy, closed. The mannequins in a boutique window stand in positions of arrested confidence that remind you, uncomfortably, of the posture the method teaches—shoulders back, chest open, chin level, the geometry of a body that is not waiting for permission.
+Madison Avenue North is north of Carlyle Corner. The printed name of Madison Avenue North is "North on Madison". "Madison Avenue, looking north. The sidewalk stretches ahead in that particular Upper East Side way—wide, clean, canopied by bare trees. Gallery windows, dark. A pharmacy, closed. The mannequins in a boutique window stand in positions of arrested confidence that remind you, uncomfortably, of the posture the method teaches—shoulders back, chest open, chin level, the geometry of a body that is not waiting for permission.
 
 The street is empty in the way that expensive streets are empty at night—not abandoned but curated, the absence itself a kind of display."
 
@@ -136,13 +136,13 @@ The mannequins are scenery in Madison Avenue North. The description is "Three of
 
 The closed pharmacy is scenery in Madison Avenue North. The description is "Dark inside, the shelves barely visible, bottles and boxes arranged in rows of manufactured remedy. Everyone who walks in here is looking for a fix—something for the headache, the cold, the insomnia. You wonder if they sell anything for the particular condition you have, the condition of being a man who has systematized desire and is now standing on Madison Avenue at night wondering whether the system is the desire or the thing that replaced the desire, and the pharmacist, if the pharmacist were here, would have no answer, because this is not a condition with a shelf." Understand "pharmacy" or "drugstore" as the closed pharmacy.
 
-Madison Avenue South is south of the Carlyle Corner. The printed name of Madison Avenue South is "South on Madison". "Madison Avenue, looking south. The storefronts give way to something less curated—a dry cleaner, a nail salon, both dark—and then, half a block down, the unmistakable fluorescence of a place that is still open. Its light spills onto the sidewalk like a confession: honest, unflattering, utterly without atmosphere.
+Madison Avenue South is south of Carlyle Corner. The printed name of Madison Avenue South is "South on Madison". "Madison Avenue, looking south. The storefronts give way to something less curated—a dry cleaner, a nail salon, both dark—and then, half a block down, the unmistakable fluorescence of a place that is still open. Its light spills onto the sidewalk like a confession: honest, unflattering, utterly without atmosphere.
 
 You can enter the diner to the south."
 
 Section 8 - East on Seventy-Sixth
 
-East Seventy-Sixth toward Park is east of the Carlyle Corner. "East on Seventy-Sixth Street, away from the Carlyle. Brownstones, quiet, the residential hush of old money sleeping behind curtains that cost more than your blazer. A single lit window on the third floor of a limestone building—someone up late, reading or working or lying awake thinking about something that has nothing to do with you, and the not-having-to-do-with-you is the most restful thought you have had all evening.
+East Seventy-Sixth toward Park is east of Carlyle Corner. "East on Seventy-Sixth Street, away from the Carlyle. Brownstones, quiet, the residential hush of old money sleeping behind curtains that cost more than your blazer. A single lit window on the third floor of a limestone building—someone up late, reading or working or lying awake thinking about something that has nothing to do with you, and the not-having-to-do-with-you is the most restful thought you have had all evening.
 
 A bench sits under a bare tree. The bench is iron and cold and public in a way that nothing in the Carlyle is public."
 
@@ -267,8 +267,8 @@ A person has a number called warmth. The warmth of a person is usually 3.
 A person has a number called comfort. The comfort of a person is usually 2.
 A person has a number called interest. The interest of a person is usually 0.
 
-Social posture is a kind of value. The social postures are socially-open, socially-guarded, and socially-walled-off.
-A person has a social posture. The social posture of a person is usually socially-guarded.
+Social-posture is a kind of value. The social-postures are socially-open, socially-guarded, and socially-walled-off.
+A person has a social-posture. The social-posture of a person is usually socially-guarded.
 A person can be engaged or elsewhere. A person is usually elsewhere.
 A person can be amused or unamused. A person is usually unamused.
 
@@ -280,40 +280,6 @@ Social-bond relates various people to each other. The verb to be bonded to means
 
 A person can be known or unknown. A person is usually known.
 
-To say Margaux-or-her-friend:
-	if Margaux is known:
-		say "Margaux";
-	otherwise:
-		say "her friend".
-
-To say Catherine-possessive-or-dark-haired-woman:
-	if Catherine is known:
-		say "Catherine's";
-	otherwise:
-		say "the dark-haired woman's".
-
-To say Catherine-or-dark-haired-woman:
-	if Catherine is known:
-		say "Catherine";
-	otherwise:
-		say "the dark-haired woman".
-
-To say James-possessive-or-bartender:
-	if James is known:
-		say "James's";
-	otherwise:
-		say "the bartender's".
-
-To say James-or-he:
-	if James is known:
-		say "James";
-	otherwise:
-		say "he".
-
-To say learned-Catherine-name:
-	if Catherine is known:
-		say " You learned her name. Catherine.".
-
 A person has a number called james-talks. The james-talks of the player is 0.
 A person has a number called doorman-talks. The doorman-talks of the player is 0.
 A person has a number called explored. The explored of the player is 0.
@@ -322,13 +288,19 @@ Chapter 2 - Catherine
 
 Catherine is a woman in Bemelmans Bar. The printed name of Catherine is "[if Catherine is known]Catherine[otherwise]dark-haired woman[end if]". Understand "woman" or "dark-haired woman" or "dark-haired" or "dark haired" or "her" as Catherine. Understand "Catherine" as Catherine when Catherine is known.
 
-The description of Catherine is "[if the attraction of Catherine is attraction-invisible]She is sitting at the bar with her back very straight, the way people sit when they are aware of being looked at and have decided not to care. Her hair is dark and cut to the jaw. She is wearing a black dress that is either very simple or very expensive and you cannot tell which, which means it is very expensive. She is drinking something clear with a twist of something pale. She is not looking at you.[otherwise if the attraction of Catherine is attraction-curious]She is half-turned on her stool now, her drink in her left hand, her right hand resting on the bar in a way that might be casual. Her eyes find you and then move away and then find you again. She is listening to [Margaux-or-her-friend] but she is not hearing [Margaux-or-her-friend].[otherwise if the attraction of Catherine is attraction-intrigued]She has turned toward you fully now. The drink is forgotten on the bar behind her. In the lamplight her face is animated in a way it was not before—she is laughing at something, or about to laugh, and her eyes stay on you a beat longer than conversation requires.[otherwise]She is looking at you the way the rabbit in the mural looks at its reflection—with a kind of surprised recognition, as though she had not expected to find something familiar here tonight.[end if]".
+To say Margaux-or-friend:
+	if Margaux is known:
+		say "Margaux";
+	otherwise:
+		say "her friend".
+
+The description of Catherine is "[if the attraction of Catherine is attraction-invisible]She is sitting at the bar with her back very straight, the way people sit when they are aware of being looked at and have decided not to care. Her hair is dark and cut to the jaw. She is wearing a black dress that is either very simple or very expensive and you cannot tell which, which means it is very expensive. She is drinking something clear with a twist of something pale. She is not looking at you.[otherwise if the attraction of Catherine is attraction-curious]She is half-turned on her stool now, her drink in her left hand, her right hand resting on the bar in a way that might be casual. Her eyes find you and then move away and then find you again. She is listening to [Margaux-or-friend] but she is not hearing [Margaux-or-friend].[otherwise if the attraction of Catherine is attraction-intrigued]She has turned toward you fully now. The drink is forgotten on the bar behind her. In the lamplight her face is animated in a way it was not before—she is laughing at something, or about to laugh, and her eyes stay on you a beat longer than conversation requires.[otherwise]She is looking at you the way the rabbit in the mural looks at its reflection—with a kind of surprised recognition, as though she had not expected to find something familiar here tonight.[end if]".
 
 The warmth of Catherine is 3.
 The comfort of Catherine is 3.
 The interest of Catherine is 0.
 The perception of Catherine is 7.
-The social posture of Catherine is socially-guarded.
+The social-posture of Catherine is socially-guarded.
 Catherine is unknown.
 
 Catherine has a text called real-name. The real-name of Catherine is "Catherine Alcott".
@@ -339,11 +311,23 @@ Chapter 3 - Margaux
 
 Margaux is a woman in Bemelmans Bar. The printed name of Margaux is "[if Margaux is known]Margaux[otherwise]woman in the green blouse[end if]". Understand "friend" or "other woman" or "woman in green" or "green blouse" as Margaux. Understand "Margaux" as Margaux when Margaux is known.
 
-The description of Margaux is "[if the social posture of Margaux is socially-guarded]She is sitting to [Catherine-possessive-or-dark-haired-woman] left, slightly forward, in the posture of someone who has appointed herself the evening's guardian. She is older than [Catherine-or-dark-haired-woman] by four or five years—early thirties, sharp-featured, wearing a green silk blouse and an expression of preemptive skepticism. She has seen men approach before. She knows the choreography.[otherwise if the social posture of Margaux is socially-open]She has relaxed visibly. Her shoulders have dropped an inch. She is holding her martini with both hands now, which means she is no longer using it as a prop, and she is laughing at something you said, or at the idea that she is laughing at something you said.[end if]".
+To say Catherine-or-dark-haired-woman:
+	if Catherine is known:
+		say "Catherine";
+	otherwise:
+		say "the dark-haired woman".
+
+To say Catherines-or-dark-haired-womans:
+	if Catherine is known:
+		say "Catherine's";
+	otherwise:
+		say "the dark-haired woman's".
+
+The description of Margaux is "[if the social-posture of Margaux is socially-guarded]She is sitting to [Catherines-or-dark-haired-womans] left, slightly forward, in the posture of someone who has appointed herself the evening's guardian. She is older than [Catherine-or-dark-haired-woman] by four or five years—early thirties, sharp-featured, wearing a green silk blouse and an expression of preemptive skepticism. She has seen men approach before. She knows the choreography.[otherwise if the social-posture of Margaux is socially-open]She has relaxed visibly. Her shoulders have dropped an inch. She is holding her martini with both hands now, which means she is no longer using it as a prop, and she is laughing at something you said, or at the idea that she is laughing at something you said.[end if]".
 
 The warmth of Margaux is 2.
 The perception of Margaux is 8.
-The social posture of Margaux is socially-guarded.
+The social-posture of Margaux is socially-guarded.
 Margaux is unknown.
 
 Margaux is bonded to Catherine.
@@ -351,9 +335,9 @@ Catherine is bonded to Margaux.
 
 Margaux has a text called private-thought. The private-thought of Margaux is "She has watched men approach Catherine in bars four times this year. Each time the choreography was the same: the angled walk, the rehearsed opener, the studied indifference to Catherine that was the opposite of indifference. She recognized the shape of it the way a birdwatcher recognizes a species by its silhouette. She is tired of the shape. She is also, in a way she has not admitted to Catherine or to herself, afraid that one night the shape will be good enough, and Catherine will leave with someone who learned her from a manual, and the manual will not have prepared him for who she actually is."
 
-Instead of doing something to Catherine when the social posture of Margaux is socially-guarded and Margaux is in Bemelmans Bar and the current action is not opening a set:
+Instead of doing something to Catherine when the social-posture of Margaux is socially-guarded and Margaux is in Bemelmans Bar and the current action is not opening a set:
 	if the interest of Catherine is less than 3:
-		say "[if Margaux is known]Margaux[otherwise]Her friend[end if] shifts slightly on her stool, interposing herself into your sightline with the practiced ease of a woman who has been someone's best friend for a long time. She does not say anything. She does not have to.";
+		say "[if Margaux is known]Margaux[otherwise]Her friend[end if] shifts slightly on her stool, interposing herself into your sightline with the practiced ease of a woman who has been someone's best friend for a long time. She does not say anything. She does not have to. The geometry of her body says: not yet. Not like this. The room is listening. Perhaps demonstrate to the room who you are before you try to tell her who she should want.";
 		stop the action.
 
 Chapter 4 - The Woman With the Notebook
@@ -576,7 +560,7 @@ Carry out befriending Margaux:
 'This is Catherine,' Margaux says, and the dark-haired woman gives you a small wave—not a wave exactly, a movement of the hand that acknowledges your existence without yet deciding what to do about it. Catherine. Her name is Catherine, and the name does something to the room, or to your position in the room, because until this moment she was the target, she was the set, she was HB-eight in lamplight, and now she is Catherine, and the name is heavier than the number and harder to carry and impossible to put down.";
 	now Margaux is known;
 	now Catherine is known;
-	now the social posture of Margaux is socially-open;
+	now the social-posture of Margaux is socially-open;
 	increase the warmth of Margaux by 3;
 	increase the warmth of Catherine by 1;
 	increase the score by 1.
@@ -617,7 +601,7 @@ Check isolating:
 		say "You only isolate the target." instead;
 	if the attraction of Catherine is less than attraction-intrigued:
 		say "You cannot isolate someone who has not yet decided to be found." instead;
-	if the social posture of Margaux is socially-guarded:
+	if the social-posture of Margaux is socially-guarded:
 		say "Margaux is still in guardian mode. Attempting to isolate now will trigger the protection protocol—the [italic type]we should go[roman type], the [italic type]it's getting late[roman type], the subtle hand on Catherine's arm that means [italic type]this man wants something from you and I am the wall between him and the wanting[roman type]. Befriend the obstacle first." instead.
 
 Carry out isolating Catherine:
@@ -702,6 +686,21 @@ You hand her your phone, the contacts screen open, the cursor blinking in the na
 	if the attraction of Catherine is attraction-absorbed:
 		increase the score by 3;
 		now the player is successfully-closed;
+		say "[paragraph break]The pianist plays his last song. It is [italic type]Every Time We Say Goodbye[roman type]. James wipes down the bar. The gold ceiling catches the last of the lamplight.
+
+'I should go,' you say, because the method says always be the one leaving—
+
+'I'll walk with you,' Catherine says. And the sentence is hers. The first thing tonight that she has initiated without your framework prompting it. The sentence changes the architecture of the evening the way a wall changes the architecture of a house—not by addition but by enclosure, by creating an inside where there was only outside, by making a room.
+
+You walk out together. Through the lobby. Through the revolving door. Into November.
+
+'Your place or mine?' she says, and she is smiling, and the smile is not an IOI.
+
+'Mine is closer,' you say.
+
+The cab takes seven minutes. You do not remember them.";
+		now Catherine is in the Apartment;
+		now the player is in the Apartment;
 	otherwise:
 		say "[line break][bracket]The close has failed. The attraction was insufficient. Review: was the value demonstrated? Was the comfort built? Was the escalation calibrated? The method does not fail. The practitioner fails the method. This is what you will tell yourself in the cab. This is what the method tells you to tell yourself, which is either a kindness or a cruelty depending on what time it is and how much of the night is left.[close bracket]".
 
@@ -709,7 +708,7 @@ Section 2 - The Alternative
 
 Instead of kissing Catherine:
 	if the player is in Bemelmans Bar:
-		if the social posture of Margaux is socially-guarded:
+		if the social-posture of Margaux is socially-guarded:
 			say "You think about leaning in. The thought arrives like a weather system—sudden, atmospheric, irrational. She is right there. The lamplight is doing something to her jaw, her throat, the line where the black dress meets skin. You could just—
 
 No. Her friend is right there. The room is watching. The gold ceiling would see. And the method—the method says the kiss is not a move, it is a consequence. It is what happens after the sequence, not during it. Kissing now would be like playing the last note of a song before the song has started. It would be noise. It would be honest. These are the same thing, and both are fatal.";
@@ -756,27 +755,10 @@ Go south to enter the hotel.";
 
 Section 2 - Closing Time
 
-Closing time is a scene. Closing time begins when the score is 8 or the score is greater than 8. Closing time ends when the time since Closing time began is 5 minutes.
+Closing time is a scene. Closing time begins when the score is 8 or the score is greater than 8 and the player is not successfully-closed. Closing time ends when the time since Closing time began is 5 minutes.
 
 When Closing time ends:
-	if the player is successfully-closed:
-		say "The pianist plays his last song. It is [italic type]Every Time We Say Goodbye[roman type]. James wipes down the bar. The gold ceiling catches the last of the lamplight.
-
-'I should go,' you say, because the method says always be the one leaving, always control the departure, always—
-
-'I'll walk with you,' Catherine says. And the sentence is not part of the method. The sentence is hers. The sentence is the first thing tonight that she has initiated without your framework prompting it, and the initiation changes the architecture of the evening the way a load-bearing wall changes the architecture of a house—remove it and the structure holds differently, or it holds better, or it holds for the first time.
-
-You walk out together. Through the lobby. Through the revolving door. Into November.
-
-'Your place or mine?' she says, and she is smiling, and the smile is not an IOI, and you are no longer keeping score.
-
-'Mine is closer,' you say.
-
-The cab takes seven minutes. You do not remember them.";
-		now Catherine is in the Apartment;
-		now the player is in the Apartment;
-	otherwise:
-		say "The pianist plays his last song. It is [italic type]Every Time We Say Goodbye[roman type], which is either a Cole Porter song about the small death of every departure or a Cole Porter song about the large life of every meeting, depending on when in the evening you hear it.
+	say "The pianist plays his last song. It is [italic type]Every Time We Say Goodbye[roman type], which is either a Cole Porter song about the small death of every departure or a Cole Porter song about the large life of every meeting, depending on when in the evening you hear it.
 
 James wipes down the bar with a white cloth, erasing the rings and the crumbs and the small wet evidence that people were here. The gold ceiling catches the last of the lamplight and holds it for a moment before the house lights come up and the room becomes merely a room—four walls, some murals, tables and chairs, a piano with its lid closed like a mouth that has said everything it intended to say.
 
@@ -785,7 +767,7 @@ You walk out through the lobby, through the revolving door, into the November ai
 You stand there for a moment, on East Seventy-Sixth Street, in the cold, in the city, in the method, in your life.
 
 A cab passes, its light on. You do not hail it. Not yet. Not for another thirty seconds. The thirty seconds are not part of the method. The thirty seconds are yours.";
-		end the story finally saying "The set is closed."
+	end the story finally saying "The set is closed."
 
 Section 3 - Being Blown Out
 
@@ -815,7 +797,7 @@ Every turn when the player is in the Restroom:
 	if a random chance of 1 in 3 succeeds:
 		say "[one of]The faucet drips. Once. The sound is enormous in here, the way all sounds are enormous in rooms where you are alone with the truth.[or]Through the wall, faintly, the piano. The melody is muffled but you can feel the rhythm of it, the way you feel a heartbeat through a chest—not hearing exactly, but knowing.[or]Someone has left a comb on the edge of the sink. It belongs to no one you know. It will be here when you leave. The small abandoned objects of other men's evenings.[in random order]".
 
-Every turn when the player is in the Carlyle Corner or the player is in Madison Avenue North or the player is in East Seventy-Sixth toward Park or the player is in Madison Avenue South:
+Every turn when the player is in Carlyle Corner or the player is in Madison Avenue North or the player is in East Seventy-Sixth toward Park or the player is in Madison Avenue South:
 	if a random chance of 1 in 3 succeeds:
 		say "[one of]A cab passes, its light on, the driver's face briefly visible—a man doing his job at an hour when most jobs have ended, the cab moving through the city the way a sentence moves through a paragraph, carrying someone from one place to another without asking why.[or]The wind picks up for a moment, carrying with it the particular November scent of the Upper East Side—cold stone, dry leaves, the ghost of someone's perfume from a lobby you will never enter.[or]Somewhere a few blocks away a dog barks twice and stops. The stopping is more eloquent than the barking. The dog has said what it needed to say.[or]A light goes on in a window. A light goes off in another. The city is a switchboard of private lives, each one as complex as yours, each one running its own system or refusing to run one, and none of them know you are here, and the not-knowing is the most generous thing the city does.[in random order]".
 
@@ -859,7 +841,7 @@ Chapter 2 - Help Text
 
 Understand "method" or "the method" as a mistake ("The method is a systematic approach to heterosexual courtship developed in the early 2000s by a man who called himself Mystery. Its core insight is that attraction is not random but sequential—a series of switches that can be tripped in order, each one enabling the next, like tumblers in a lock. Its core promise is that the lock can be learned. Its core silence is on the subject of what you find when the door opens.").
 
-Understand "about" or "help" as a mistake ("You are a man called Ethan in a bar in New York in November in 2026. You have read the book and you know the method and you are here to practice it on a real person in a real room with a gold ceiling and murals of rabbits. The moves the method teaches: APPROACH, NEG, DHV, BEFRIEND, COMPLIANCE TEST, ISOLATE, KINO, CLOSE. The usual commands: LOOK, EXAMINE, TALK TO.
+Understand "about" or "help" as a mistake ("You are a man called Ethan in a bar in New York in November in 2026. You have read the book and you know the method and you are here to practice it on a real person in a real room with a gold ceiling and murals of rabbits. The moves the method teaches: APPROACH, NEG, DHV, BEFRIEND, COMPLIANCE TEST, ISOLATE, KINO, CLOSE. The method lists these in this order. The method may be wrong about the order. The method is often wrong about things it is most confident about. The usual commands: LOOK, EXAMINE, TALK TO.
 
 You can also ORDER a drink. You can CHECK your PHONE. You can LEAVE.
 
@@ -871,9 +853,9 @@ There is one command the method does not teach: LISTEN. It is always available."
 
 Chapter 3 - Listening
 
-Understand "listen" as listening.
+Actively-listening is an action applying to nothing. Understand "listen" as actively-listening.
 
-Carry out listening:
+Carry out actively-listening:
 	if the player is in Bemelmans Bar:
 		increase the explored of the player by 1;
 		say "You stop. You stop calculating. You stop tracking the IOIs and the kino ladder and the warmth variable and the interest counter that you carry in your head like a man carrying a machine he built himself that he is not entirely sure works.
@@ -887,7 +869,7 @@ And [if Catherine is known]Catherine. Catherine talking to Margaux[otherwise]her
 You hear it. The method has no name for what you hear. This is either its greatest failure or the door it has been building toward all along.";
 		increase the warmth of Catherine by 2;
 		increase the comfort of Catherine by 2;
-		now the social posture of Catherine is socially-open;
+		now the social-posture of Catherine is socially-open;
 	otherwise if the player is in the Far End of the Bar:
 		say "You stop talking. You just stop. And in the space where your voice was, her voice continues, and you hear it differently now, without the overlay of strategy, without the constant annotation—[italic type]that's comfort-building, that's an IOI, that's an opening for a compliance test[roman type]—and what you hear instead is a woman telling you about a book she loves, and the telling is the thing, the telling is what she is giving you, and the method did not prepare you for gifts. The method prepared you for transactions.
 
@@ -914,7 +896,7 @@ You are a man in a restroom listening to a faucet drip while a pianist plays Col
 The man behind the counter is not listening. He is just here. He has been here so long that being here is not an activity but a condition, the way weather is a condition, the way the room is a condition. He is not performing attention. He is not performing anything. He is a man behind a counter in a diner at night, and the not-performing is the most radical thing you have encountered in eight months of study, because the method is, at its core, a theory of performance—a system for performing confidence, performing value, performing the geometry of a person who does not need permission—and this man has never performed any of it and has never needed to and the not-needing is not a lack. The not-needing is a kind of freedom you did not know existed.
 
 You listen to the freedom. It sounds like a coffee machine and a turning page and the traffic on Madison and nothing else. It is enough.";
-	otherwise if the player is in the Carlyle Corner or the player is in Madison Avenue North or the player is in East Seventy-Sixth toward Park or the player is in Madison Avenue South:
+	otherwise if the player is in Carlyle Corner or the player is in Madison Avenue North or the player is in East Seventy-Sixth toward Park or the player is in Madison Avenue South:
 		say "You listen to the city. The city is not performing for you. The city is not performing for anyone. The city is doing what the city does at this hour, which is running its systems—the traffic lights cycling, the subway moving beneath the streets, the buildings humming with the electricity of sleeping people's phones and clocks and refrigerators—and the running is not a method. The running is not strategic. The running is just the city being the city, the way the pianist plays for the room and the room plays back, except the city is the largest room there is and it plays for no one and everyone and the playing is the same either way.
 
 A siren, far away. The November wind. The bare branches holding the sky. You are standing in the city and listening to it and the listening is not an IOI and it is not data and it is not a move in any sequence and it is the most present you have been all evening, and the presence has no score, and the scorelessness is the presence, and the presence is enough.";
@@ -938,6 +920,18 @@ Section 2 - Buying a Drink
 
 Buying a drink is an action applying to one visible thing. Understand "buy [someone] a drink" or "buy a drink for [someone]" or "get [someone] a drink" or "offer [someone] a drink" as buying a drink.
 
+To say Jamess-or-bartenders:
+	if James is known:
+		say "James's";
+	otherwise:
+		say "the bartender's".
+
+To say James-or-he:
+	if James is known:
+		say "James";
+	otherwise:
+		say "he".
+
 Check buying a drink:
 	if the noun is not Catherine:
 		say "You are not here to buy [the noun] a drink." instead;
@@ -947,9 +941,9 @@ Check buying a drink:
 Carry out buying a drink:
 	say "The method says no. The method says buying a drink is supplication—it places you in the provider frame, communicates that your attention must be purchased with gifts, signals that you believe your presence alone is not enough. The method says the drink is a transaction that puts you on the wrong side of the ledger.
 
-[if the warmth of Catherine is greater than 4]But you are not thinking about the method. You catch [James-possessive-or-bartender] eye and nod toward Catherine's glass, the universal semaphore, and [James-or-he] nods back and begins pouring, and Catherine sees this happen—the nod, the pour, the glass arriving in front of her without her having asked—and she looks at you with an expression the method would classify as an IOI but which is actually something simpler and older and less classifiable: she is pleased. Not attracted, not intrigued, not moved along any axis on any ladder. Pleased. A man bought her a drink and it was a kind thing and the kindness landed.
+[if the warmth of Catherine is greater than 4]But you are not thinking about the method. You catch [Jamess-or-bartenders] eye and nod toward Catherine's glass, the universal semaphore, and [James-or-he] nods back and begins pouring, and Catherine sees this happen—the nod, the pour, the glass arriving in front of her without her having asked—and she looks at you with an expression the method would classify as an IOI but which is actually something simpler and older and less classifiable: she is pleased. Not attracted, not intrigued, not moved along any axis on any ladder. Pleased. A man bought her a drink and it was a kind thing and the kindness landed.
 
-'Thank you,' she says. Two words. The method has no entry for what to do when someone thanks you and means it.[otherwise]You catch [James-possessive-or-bartender] eye and nod toward Catherine's glass. The drink arrives. She looks at it, then at you, and smiles politely—the smile of a woman who has been bought drinks before and knows what they cost and has decided, tonight, not to pay.
+'Thank you,' she says. Two words. The method has no entry for what to do when someone thanks you and means it.[otherwise]You catch [Jamess-or-bartenders] eye and nod toward Catherine's glass. The drink arrives. She looks at it, then at you, and smiles politely—the smile of a woman who has been bought drinks before and knows what they cost and has decided, tonight, not to pay.
 
 'That's sweet,' she says, and 'sweet' is the method's word for death—the adjective that means you have been classified as harmless, which is the one thing the method teaches you never to be.[end if]";
 	if the warmth of Catherine is greater than 4:
@@ -973,6 +967,10 @@ Section 4 - Leaving
 
 Leaving the Carlyle is an action applying to nothing. Understand "leave" or "go home" or "hail cab" or "walk away" or "give up" or "exit" as leaving the Carlyle.
 
+To say learned-Catherines-name:
+	if Catherine is known:
+		say "You learned her name. Catherine.".
+
 Check leaving the Carlyle:
 	if the player is in Bemelmans Bar or the player is in the Far End of the Bar:
 		say "You are still in the room. The gold ceiling is still above you. [if Catherine is in the location of the player]She is still here.[end if] If you want to leave, you have to stand up, walk through the lobby, and out the door. The method has no command for this. You would have to invent it yourself." instead;
@@ -988,7 +986,7 @@ Carry out leaving the Carlyle:
 
 You stand on East Seventy-Sixth Street and the doorman is at his post and the awning is dark green and the brass revolving door is still catching light from inside, the light from the lobby, the old-champagne light, and through the glass you can still see marble and warmth and the promise of a room where someone is playing the piano, and the promise is the same promise it was when you arrived, and you are the one who has changed, or not changed, or changed in a way that does not yet have a shape.
 
-[if the interest of Catherine is greater than 0]You opened the set.[learned-Catherine-name] You ran part of the sequence—some of the steps, not all, enough to know that the machine works when you turn the crank, and tonight you chose to stop turning it, and you are not sure whether this is failure or the thing that comes after failure when failure has taught you something it did not intend to teach.
+[if the interest of Catherine is greater than 0]You opened the set. [learned-Catherines-name] You ran part of the sequence—some of the steps, not all, enough to know that the machine works when you turn the crank, and tonight you chose to stop turning it, and you are not sure whether this is failure or the thing that comes after failure when failure has taught you something it did not intend to teach.
 
 [end if][if the explored of the player is greater than 3]But you also did something the method did not teach. You talked to the bartender and he told you about a couple who came every Tuesday for thirty years. You listened to the pianist when he stopped playing and heard something the music was saying underneath itself. You noticed the woman in the corner writing in her notebook, and she noticed you, and neither of you looked away. You stood in the restroom and let the mirror show you the version of yourself the gold ceiling was not gilding. These are not data points. These are not IOIs. These are the things that happened while you were busy trying to make something else happen, and they are, you suspect, the evening. Not the method's evening. The actual evening. The one the room was having while you were running your sequence through it.[otherwise if the explored of the player is greater than 1]And there were other things—moments between the method's moments, pauses in the sequence where the room showed you something the sequence did not require you to see. You are not sure what to do with these. The method has no field for them. The field report will not mention them. But you will remember them, or some of them, and the remembering will outlast the method the way the room will outlast you—quietly, without trying, the way real things outlast the performances built on top of them.[end if]
 
@@ -1077,12 +1075,13 @@ Instead of waiting:
 
 But standing still in a beautiful room is not nothing. Standing still while a man plays Cole Porter and the gold ceiling holds the light and the murals watch with their painted eyes—this is something. This is a thing a person can do. The method has no name for it. The method does not count it. And yet this moment, right now, you standing here doing nothing, is the closest you have been all evening to the thing you actually came here for, which is not a number, which is not a close, which is the feeling of being somewhere beautiful and knowing it and not needing anything from it."
 
-Snacking is an action applying to nothing. Understand "eat" or "eat nuts" or "eat the nuts" or "take nuts" or "grab nuts" as snacking.
-
-Instead of snacking:
+Instead of nut-eating:
 	say "You take a handful of nuts from the bowl. They are warm and salted and they are the only thing in this room that is exactly what they claim to be. The nuts do not have a printed name that changes based on your level of engagement. The nuts are not tracking your warmth. The nuts exist in a state of complete ontological honesty and you are briefly, irrationally envious of the nuts.
 
 You eat them. They are good. This is not part of the method. This is just a man eating nuts in a bar, and the simplicity of it is so foreign to the rest of your evening that it feels almost subversive, like a small act of resistance against the system you have spent eight months building inside your own head."
+
+Understand "eat" or "eat nuts" or "eat the nuts" or "take nuts" or "grab nuts" as nut-eating.
+Nut-eating is an action applying to nothing.
 
 Instead of praying:
 	say "You are not a religious person. You have not been a religious person since you were fourteen, which is the age at which you decided that the universe was mechanical and that the mechanics could be understood and that understanding the mechanics was the same as controlling them, which is the same insight the method is built on, which is maybe why you were drawn to it—the method is a theology for people who do not believe in God but do believe in systems.
@@ -1160,12 +1159,15 @@ Remembering is an action applying to nothing.
 
 Section 9 - The Blazer
 
-Instead of taking off the blazer:
+Instead of blazer-removing the blazer:
 	say "You think about taking it off. Not because you are warm—the room is the temperature it has always been, the temperature of old champagne and careful ventilation—but because the blazer is the costume, and the costume is the method, and removing it would be a kind of confession, a man admitting in fabric what he cannot yet admit in language: that the person wearing the blazer is not the person who put it on.
 
 You bought it for ninety dollars and had it tailored for forty more and it fits you perfectly and the fit is one of the method's true things and you are tired of the method's true things, not because they are untrue but because they are true in a way that costs more than they are worth. The blazer fits. The method fits. And you are standing in a room with a gold ceiling wondering whether fit is the same as belonging, and it is not, it is not the same, and the blazer knows this better than you do, because the blazer was a blazer before you bought it and will be a blazer after you hang it in the closet and forget about it, and the forgetting will not diminish the blazer, and the blazer will not miss you.
 
 You keep it on. The keeping-it-on is not courage and not cowardice. It is the decision of a man who is not yet ready to be seen without his costume, which is the decision of most people on most nights, and the normalcy of it is either a comfort or a tragedy depending on the hour."
+
+Understand "take off blazer" or "remove blazer" or "take off jacket" or "remove jacket" as blazer-removing.
+Blazer-removing is an action applying to one visible thing.
 
 Part Six - The After
 
@@ -1795,7 +1797,44 @@ You walk home. The city walks with you. The clearing is open.";
 	otherwise:
 		say "You go to therapy. You talk. Not about the method—about Catherine, about Bartleby, about the eggplant and the shoes by the door and the sound engineer in Kutaisi and the burned rice and the bar on Avenue B and the manuscript about the Black Sea. You talk about your life. Your actual life. The one that is happening while you are in it. Dr. Rosen listens. The listening is the room. The room is enough."
 
-Section 9 - The Endings
+Section 9 - The Optimization
+
+Playing-games is an action applying to nothing. Understand "play games" or "play video games" or "games" or "video games" as playing-games when the relationship is happening.
+
+Carry out playing-games:
+	say "It starts in April.
+
+Catherine is editing at the kitchen table—the Nino manuscript is in second-pass copy-editing now, and Catherine and the copy editor have reached the phase of their relationship that Catherine describes as 'collaborative hostility,' which means they are sending each other tracked-changes documents with comments that begin 'With respect' and mean 'You are wrong and I can prove it.' She is deep in a paragraph about the Black Sea. Bartleby is asleep on a stack of printouts. The apartment is quiet in the specific way it is quiet when Catherine is working, which is to say: completely, monastically, with the particular intensity of a person who disappears into text the way other people disappear into sleep.
+
+You are on the couch. You have your laptop. You are playing Elden Ring.
+
+You have been playing Elden Ring for two weeks, and in those two weeks something has happened that you recognize—the same thing that happened with the method, the same internal machinery engaging, the same engine starting. You are optimizing. You are reading forums. You are studying builds and tier lists and boss strategies and the frame data for the Moonveil's special attack. You are watching YouTube guides by men who talk about damage output the way you used to talk about IOIs—clinically, systemically, with the total conviction that the system is the thing and the thing can be mastered.
+
+The recognition is not alarming. The recognition is almost funny. The brain that built the method is the same brain that is now building a strength-dexterity build for a samurai who does not exist. The optimization impulse did not leave when the method left. The optimization impulse is you. It is the part of you that reads forums at two in the morning and highlights passages and builds systems from other people's systems. It is the part that found the method in the first place—not the loneliness, not the wanting, but the specific cognitive reflex that responds to any problem by looking for the manual. The loneliness found the wanting. The wanting found the forum. But the forum appealed to the optimizer, and the optimizer is still here, sitting on the couch, studying boss patterns, and the boss patterns are not women. The boss patterns are the Erdtree. And the Erdtree does not have a warmth variable. The Erdtree does not have a private-thought the source code knows and the parser can't reach. The Erdtree is just a boss. And you can optimize a boss without anyone getting hurt.
+
+'You died again,' Catherine says, without looking up from the manuscript.
+
+'Margit.'
+
+'You've been fighting Margit for three days.'
+
+'Margit is a skill check. You can't brute-force a skill check. You have to learn the patterns.'
+
+She puts down the red pen. She looks at you over the stack of printouts. The look is the look of a woman who edits novels for a living and has a finely calibrated sense of when a person is telling a story and when a person is performing an analysis, and the analysis is endearing, and the endearing is the thing—she finds you endearing, this woman, she finds the optimizer endearing the way you find Bartleby endearing, the way you find her copy-editor arguments endearing, the way the endearing is the thing that holds the relationship together, not the attraction, not the warmth variable, not the interest counter, but the endearing, which is the fondness for the specific, the fondness for the particular way a particular person is a person, and her particular way is manuscripts and tracked changes and 'with respect,' and your particular way is boss patterns and tier lists and the specific cognitive reflex that turns everything into a system.
+
+'You know what you're doing, right?' she says.
+
+'Optimizing.'
+
+'Optimizing.'
+
+'Is that bad?'
+
+'It's you,' she says. And she goes back to the manuscript. And you go back to Margit. And Bartleby sleeps on the printouts. And the evening is just an evening—a woman editing a novel and a man fighting a boss and a cat sleeping on paper in an apartment on the Lower East Side in April, and none of it is a method, and none of it is a sequence, and the optimization is the same optimization and it is pointed at a game now instead of a person and the pointing-at-a-game is the healthiest thing the optimizer has ever done, and the healthiest thing the optimizer has ever done is also the most ordinary thing the optimizer has ever done, which is sit on a couch and play a game while the person he loves edits a book.
+
+You die again. You respawn. You learn the pattern. You try again. The trying is real. The dying is temporary. The game goes on."
+
+Section 10 - The Endings
 
 Instead of leaving the Carlyle when the relationship is happening:
 	say "You think about leaving. Not Catherine—just the thought of leaving, the way you sometimes think about rain while standing in the sun, a hypothetical that has no weight, a door you could walk through but won't because the room you are in is warm and the person in it is warm and the cat in it is warm and the warmth is not strategic and not performed and not optimized. The warmth is just warm.
