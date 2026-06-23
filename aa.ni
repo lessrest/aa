@@ -3,7 +3,7 @@
 The story headline is "An Evening at the Carlyle".
 The story genre is "Drama".
 The story creation year is 2026.
-The release number is 11.
+The release number is 14.
 
 Use full-length room descriptions.
 Use scoring.
@@ -13,6 +13,195 @@ A person can be successfully-closed or not-successfully-closed. A person is usua
 
 Talking to is an action applying to one visible thing.
 Understand "talk to [someone]" or "talk with [someone]" or "speak to [someone]" or "speak with [someone]" as talking to.
+
+Part Zero - The Volume Algebra
+
+[Between any two people who have accumulated enough history
+ to require a ledger, three quantities emerge. V is their sum.
+ B is their difference. S is their product. V² - B² = 4S.
+ Always. Everywhere. No exceptions. No appeals.]
+
+Chapter 1 - The Ledger
+
+A person has a number called sigma-c. The sigma-c of a person is usually 0.
+[What was given. A running sum. Credits accumulate.]
+
+A person has a number called m-n. The m-n of a person is usually 0.
+[What it cost. Debits transform. Memory changes every time you touch it.]
+
+Chapter 2 - The Coordinates
+
+To decide what number is the volume of (P - a person):
+	decide on the sigma-c of P plus the m-n of P.
+
+To decide what number is the gap of (P - a person):
+	decide on the sigma-c of P minus the m-n of P.
+
+To decide what number is the surface of (P - a person):
+	decide on the sigma-c of P multiplied by the m-n of P.
+
+Chapter 3 - The Identity
+
+To decide what number is the identity-check of (P - a person):
+	let V be the volume of P;
+	let B be the gap of P;
+	let S be the surface of P;
+	decide on (V * V) - (B * B) - (4 * S).
+	[This is always zero. That is the point.]
+
+Chapter 4 - The Discriminants
+
+To decide what number is the discriminant of (P - a person):
+	decide on (the gap of P) * (the gap of P).
+
+To decide what number is the co-discriminant of (P - a person):
+	decide on (the volume of P) * (the volume of P).
+
+Chapter 5 - The Regimes
+
+To decide if (P - a person) is in the positive regime:
+	if the surface of P >= 0, decide yes;
+	decide no.
+
+To decide if (P - a person) is in the inverted regime:
+	if the surface of P < 0, decide yes;
+	decide no.
+
+Chapter 6 - The Integer Square Root
+
+To decide what number is the isqrt of (N - a number):
+	if N <= 0, decide on 0;
+	let guess be N;
+	let previous be N;
+	repeat with i running from 1 to 30:
+		now previous is guess;
+		now guess is (guess + N / guess) / 2;
+		if guess >= previous, decide on previous;
+	decide on guess.
+
+Chapter 7 - The Geometric Shadow
+
+To decide what number is the absolute-value of (N - a number):
+	if N < 0, decide on 0 - N;
+	decide on N.
+
+To decide what number is the geometric-shadow of (P - a person):
+	decide on 2 * (the isqrt of the absolute-value of the surface of P).
+
+Chapter 8 - The Recovery
+
+To decide what number is the recovered-credit of (P - a person):
+	decide on (the volume of P + the gap of P) / 2.
+
+To decide what number is the recovered-debit of (P - a person):
+	decide on (the volume of P - the gap of P) / 2.
+
+[The information is never destroyed. They can always be found.
+ They can always be carried home. Nobody's gone.]
+
+Chapter 9 - The Singular Configurations
+
+To decide if (P - a person) is at the scar:
+	if the volume of P is 0, decide yes;
+	decide no.
+
+To decide if (P - a person) is at the apex:
+	if the gap of P is 0, decide yes;
+	decide no.
+
+Chapter 10 - The Operator
+
+To credit (P - a person) by (amount - a number):
+	increase the sigma-c of P by amount.
+
+To debit (P - a person) by (amount - a number):
+	increase the m-n of P by amount.
+
+To apply operator (K - a number) to (P - a person):
+	[The operator is the clearing. What fills it determines
+	 what the recursion produces. K is free.]
+	let old be the m-n of P;
+	now the m-n of P is old - (old * K / 100).
+
+Chapter 11 - The Prose Regime
+
+[The algebra modulates the prose. V is what the relationship
+ looks like. B is what it hides. S is how entangled they are.]
+
+To decide what number is the gap-ratio of (P - a person):
+	let V be the volume of P;
+	if V is 0, decide on 100;
+	let absB be the absolute-value of the gap of P;
+	decide on (absB * 100) / V.
+
+Chapter 12 - Integration
+
+[The algebra runs underneath the relationship.
+ Credits accumulate from genuine actions.
+ Debits accumulate from costs.
+ Operators act at transitions.
+ The player never sees the numbers.
+ Catherine's private-thought carries the gap.]
+
+After making coffee:
+	credit Catherine by 2.
+
+After cooking-together:
+	credit Catherine by 3.
+
+After walking-together:
+	credit Catherine by 2.
+
+After watching-her-sleep:
+	credit Catherine by 3.
+
+After making love:
+	credit Catherine by 3.
+
+After arguing:
+	debit Catherine by 1.
+
+After going-to-therapy:
+	apply operator 15 to Catherine.
+
+After talking-to-Margaux-again:
+	credit Catherine by 1.
+
+After talking-to-Marcus:
+	apply operator 5 to Catherine.
+
+[The algebra surfaces in the prose—not as numbers
+ but as weather. The relationship's atmospheric rules
+ are modulated by the coordinates underneath.]
+
+Every turn when the relationship is happening:
+	if a random chance of 1 in 4 succeeds:
+		let V be the volume of Catherine;
+		let ratio be the gap-ratio of Catherine;
+		if Catherine is in the positive regime:
+			if ratio < 30:
+				say "[one of]Catherine reaches for your hand without looking. The reaching is automatic now—not habitual, not thoughtless, but the kind of automatic that means the body has learned what the mind decided weeks ago.[or]Bartleby is on your lap. Catherine's feet are on Bartleby. The three of you form a chain of warmth that the radiator did not build and the method did not engineer and the algebra does not need to explain.[or]She is humming something. You do not know what. The not-knowing is fine. The not-knowing is better than fine. The not-knowing is the sound of a person who has forgotten she is being listened to, and the forgetting is the trust, and the trust is the volume, and the volume is real.[in random order]";
+			otherwise if ratio < 60:
+				say "[one of]Catherine is quiet tonight. Not the quiet of anger or withdrawal—the quiet of a person who is thinking about something she has not yet decided to say, and the not-saying is not concealment, it is timing, and you are learning the difference.[or]She looks at you sometimes with an expression you cannot read. The expression is not the method's unreadable—the method's unreadable was a failure of your catalog. This unreadable is a feature of her depth. She has rooms you have not entered. The rooms are not locked. You have not yet found the doors.[or]The gap between what she shows and what she carries is not visible from where you sit. This is not because you are not looking. This is because |B| is less than or equal to V, and V is what you see, and V is large, and V is real, and V includes the gap the way the ocean includes its floor—present, structural, invisible from the surface.[in random order]";
+			otherwise:
+				say "[one of]Something is different tonight. The apartment is the same apartment. The cat is the same cat. But the air between you has a texture it did not have yesterday, the texture of two people who are both in the room and not entirely in the same room, and the not-same-room is not a crisis, it is a coordinate, it is the gap expressing itself in the only language the gap knows, which is distance, which is weather, which is the slight cooling of an evening that is still warm but is no longer hot.[or]She is editing with more force than usual. The red pen moves across the page like it is arguing with someone who is not Nino. You do not ask. The not-asking is either wisdom or cowardice and you are not sure which and the not-sure is the gap and the gap is yours.[in random order]";
+		otherwise if Catherine is in the inverted regime:
+			say "Something has shifted in the algebra of the relationship, in the underground architecture you cannot see but can feel the way you feel a change in barometric pressure—not with any specific sense but with the whole body, the whole self, the awareness that the rules have changed and the old constraints have relaxed and the territory you are in now is territory the original map was not drawn for. She looks at you and the look is new. The look is not warm and not cold. The look is something the system was not built to contain, and the not-containing is either breakdown or freedom, and you are not sure which, and the not-sure is the clearing, and the clearing is open."
+
+[Catherine's private-thought updates to carry the gap.
+ The hidden quantity lives in the one place
+ the parser cannot reach.]
+
+Every turn when the relationship is happening:
+	let B be the gap of Catherine;
+	let V be the volume of Catherine;
+	let S be the surface of Catherine;
+	if B > 0 and B < V:
+		now the private-thought of Catherine is "The volume is [V]. The gap is [B]. The surface is [S]. The gap is smaller than the volume. She is inside a system that has been mathematically proven to hide her—not by conspiracy, not by anyone's malice, but by the structure of addition itself. What was given and what it cost have been added together, and the sum is what he sees, and the sum is warm, and the sum is real, and the sum does not show the part of her that wonders whether the warmth would be different if it had started differently. The wondering is B. The warmth is V. V squared minus B squared equals four S. She checked. The floor is still there.";
+	otherwise if B <= 0:
+		now the private-thought of Catherine is "The volume is [V]. The gap is [B]. The surface is [S]. The gap has vanished, or inverted—what it cost has been transformed so completely by the operators that the cost is no longer a cost. The Wednesday afternoons. The slow work of weeks. The thing he said in the kitchen that changed the meaning of everything said in the kitchen before. She is not carrying the gap anymore. She is carrying something the algebra permits but does not name. The floor is still there. V squared minus B squared equals four S. Four."
+	[High ratio = large gap relative to volume.
+	 Low ratio = gap hidden inside volume.]
 
 Part One - The World
 
@@ -128,7 +317,7 @@ The street trees are scenery in Carlyle Corner. The description is "Bare. Novemb
 
 Section 7 - Madison Avenue
 
-Madison Avenue North is north of Carlyle Corner. The printed name of Madison Avenue North is "North on Madison". "Madison Avenue, looking north. The sidewalk stretches ahead in that particular Upper East Side way—wide, clean, canopied by bare trees. Gallery windows, dark. A pharmacy, closed. The mannequins in a boutique window stand in positions of arrested confidence that remind you, uncomfortably, of the posture the method teaches—shoulders back, chest open, chin level, the geometry of a body that is not waiting for permission.
+Madison Avenue North is north of Carlyle Corner. "Madison Avenue, looking north. The sidewalk stretches ahead in that particular Upper East Side way—wide, clean, canopied by bare trees. Gallery windows, dark. A pharmacy, closed. The mannequins in a boutique window stand in positions of arrested confidence that remind you, uncomfortably, of the posture the method teaches—shoulders back, chest open, chin level, the geometry of a body that is not waiting for permission.
 
 The street is empty in the way that expensive streets are empty at night—not abandoned but curated, the absence itself a kind of display."
 
@@ -288,12 +477,6 @@ Chapter 2 - Catherine
 
 Catherine is a woman in Bemelmans Bar. The printed name of Catherine is "[if Catherine is known]Catherine[otherwise]dark-haired woman[end if]". Understand "woman" or "dark-haired woman" or "dark-haired" or "dark haired" or "her" as Catherine. Understand "Catherine" as Catherine when Catherine is known.
 
-To say Margaux-or-friend:
-	if Margaux is known:
-		say "Margaux";
-	otherwise:
-		say "her friend".
-
 The description of Catherine is "[if the attraction of Catherine is attraction-invisible]She is sitting at the bar with her back very straight, the way people sit when they are aware of being looked at and have decided not to care. Her hair is dark and cut to the jaw. She is wearing a black dress that is either very simple or very expensive and you cannot tell which, which means it is very expensive. She is drinking something clear with a twist of something pale. She is not looking at you.[otherwise if the attraction of Catherine is attraction-curious]She is half-turned on her stool now, her drink in her left hand, her right hand resting on the bar in a way that might be casual. Her eyes find you and then move away and then find you again. She is listening to [Margaux-or-friend] but she is not hearing [Margaux-or-friend].[otherwise if the attraction of Catherine is attraction-intrigued]She has turned toward you fully now. The drink is forgotten on the bar behind her. In the lamplight her face is animated in a way it was not before—she is laughing at something, or about to laugh, and her eyes stay on you a beat longer than conversation requires.[otherwise]She is looking at you the way the rabbit in the mural looks at its reflection—with a kind of surprised recognition, as though she had not expected to find something familiar here tonight.[end if]".
 
 The warmth of Catherine is 3.
@@ -304,12 +487,12 @@ The social-posture of Catherine is socially-guarded.
 Catherine is unknown.
 
 Catherine has a text called real-name. The real-name of Catherine is "Catherine Alcott".
-Catherine has a text called occupation. The occupation of Catherine is "associate editor at Farrar, Straus and Giroux".
-Catherine has a text called private-thought. The private-thought of Catherine is "She came here tonight because her apartment felt too quiet. She does not know what she is looking for. She suspects it is not what you are offering, but she is not sure, and the not-sureness is what keeps her on the stool."
 
-Chapter 3 - Margaux
-
-Margaux is a woman in Bemelmans Bar. The printed name of Margaux is "[if Margaux is known]Margaux[otherwise]woman in the green blouse[end if]". Understand "friend" or "other woman" or "woman in green" or "green blouse" as Margaux. Understand "Margaux" as Margaux when Margaux is known.
+To say Margaux-or-friend:
+	if Margaux is known:
+		say "Margaux";
+	otherwise:
+		say "her friend".
 
 To say Catherine-or-dark-haired-woman:
 	if Catherine is known:
@@ -322,6 +505,12 @@ To say Catherines-or-dark-haired-womans:
 		say "Catherine's";
 	otherwise:
 		say "the dark-haired woman's".
+Catherine has a text called occupation. The occupation of Catherine is "associate editor at Farrar, Straus and Giroux".
+Catherine has a text called private-thought. The private-thought of Catherine is "She came here tonight because her apartment felt too quiet. She does not know what she is looking for. She suspects it is not what you are offering, but she is not sure, and the not-sureness is what keeps her on the stool."
+
+Chapter 3 - Margaux
+
+Margaux is a woman in Bemelmans Bar. The printed name of Margaux is "[if Margaux is known]Margaux[otherwise]woman in the green blouse[end if]". Understand "friend" or "other woman" or "woman in green" or "green blouse" as Margaux. Understand "Margaux" as Margaux when Margaux is known.
 
 The description of Margaux is "[if the social-posture of Margaux is socially-guarded]She is sitting to [Catherines-or-dark-haired-womans] left, slightly forward, in the posture of someone who has appointed herself the evening's guardian. She is older than [Catherine-or-dark-haired-woman] by four or five years—early thirties, sharp-featured, wearing a green silk blouse and an expression of preemptive skepticism. She has seen men approach before. She knows the choreography.[otherwise if the social-posture of Margaux is socially-open]She has relaxed visibly. Her shoulders have dropped an inch. She is holding her martini with both hands now, which means she is no longer using it as a prop, and she is laughing at something you said, or at the idea that she is laughing at something you said.[end if]".
 
@@ -701,6 +890,12 @@ You walk out together. Through the lobby. Through the revolving door. Into Novem
 The cab takes seven minutes. You do not remember them.";
 		now Catherine is in the Apartment;
 		now the player is in the Apartment;
+		[The algebra begins. What was given and what it cost
+		 start accumulating from this moment forward.
+		 The method's evening is the initial debit—
+		 the cost that precedes the relationship.]
+		now the m-n of Catherine is 8;
+		now the sigma-c of Catherine is 1;
 	otherwise:
 		say "[line break][bracket]The close has failed. The attraction was insufficient. Review: was the value demonstrated? Was the comfort built? Was the escalation calibrated? The method does not fail. The practitioner fails the method. This is what you will tell yourself in the cab. This is what the method tells you to tell yourself, which is either a kindness or a cruelty depending on what time it is and how much of the night is left.[close bracket]".
 
@@ -920,7 +1115,7 @@ Section 2 - Buying a Drink
 
 Buying a drink is an action applying to one visible thing. Understand "buy [someone] a drink" or "buy a drink for [someone]" or "get [someone] a drink" or "offer [someone] a drink" as buying a drink.
 
-To say Jamess-or-bartenders:
+To say James-possessive:
 	if James is known:
 		say "James's";
 	otherwise:
@@ -941,9 +1136,9 @@ Check buying a drink:
 Carry out buying a drink:
 	say "The method says no. The method says buying a drink is supplication—it places you in the provider frame, communicates that your attention must be purchased with gifts, signals that you believe your presence alone is not enough. The method says the drink is a transaction that puts you on the wrong side of the ledger.
 
-[if the warmth of Catherine is greater than 4]But you are not thinking about the method. You catch [Jamess-or-bartenders] eye and nod toward Catherine's glass, the universal semaphore, and [James-or-he] nods back and begins pouring, and Catherine sees this happen—the nod, the pour, the glass arriving in front of her without her having asked—and she looks at you with an expression the method would classify as an IOI but which is actually something simpler and older and less classifiable: she is pleased. Not attracted, not intrigued, not moved along any axis on any ladder. Pleased. A man bought her a drink and it was a kind thing and the kindness landed.
+[if the warmth of Catherine is greater than 4]But you are not thinking about the method. You catch [James-possessive] eye and nod toward Catherine's glass, the universal semaphore, and [James-or-he] nods back and begins pouring, and Catherine sees this happen—the nod, the pour, the glass arriving in front of her without her having asked—and she looks at you with an expression the method would classify as an IOI but which is actually something simpler and older and less classifiable: she is pleased. Not attracted, not intrigued, not moved along any axis on any ladder. Pleased. A man bought her a drink and it was a kind thing and the kindness landed.
 
-'Thank you,' she says. Two words. The method has no entry for what to do when someone thanks you and means it.[otherwise]You catch [Jamess-or-bartenders] eye and nod toward Catherine's glass. The drink arrives. She looks at it, then at you, and smiles politely—the smile of a woman who has been bought drinks before and knows what they cost and has decided, tonight, not to pay.
+'Thank you,' she says. Two words. The method has no entry for what to do when someone thanks you and means it.[otherwise]You catch [James-possessive] eye and nod toward Catherine's glass. The drink arrives. She looks at it, then at you, and smiles politely—the smile of a woman who has been bought drinks before and knows what they cost and has decided, tonight, not to pay.
 
 'That's sweet,' she says, and 'sweet' is the method's word for death—the adjective that means you have been classified as harmless, which is the one thing the method teaches you never to be.[end if]";
 	if the warmth of Catherine is greater than 4:
@@ -967,7 +1162,7 @@ Section 4 - Leaving
 
 Leaving the Carlyle is an action applying to nothing. Understand "leave" or "go home" or "hail cab" or "walk away" or "give up" or "exit" as leaving the Carlyle.
 
-To say learned-Catherines-name:
+To say learned-Catherine:
 	if Catherine is known:
 		say "You learned her name. Catherine.".
 
@@ -986,7 +1181,7 @@ Carry out leaving the Carlyle:
 
 You stand on East Seventy-Sixth Street and the doorman is at his post and the awning is dark green and the brass revolving door is still catching light from inside, the light from the lobby, the old-champagne light, and through the glass you can still see marble and warmth and the promise of a room where someone is playing the piano, and the promise is the same promise it was when you arrived, and you are the one who has changed, or not changed, or changed in a way that does not yet have a shape.
 
-[if the interest of Catherine is greater than 0]You opened the set. [learned-Catherines-name] You ran part of the sequence—some of the steps, not all, enough to know that the machine works when you turn the crank, and tonight you chose to stop turning it, and you are not sure whether this is failure or the thing that comes after failure when failure has taught you something it did not intend to teach.
+[if the interest of Catherine is greater than 0]You opened the set. [learned-Catherine] You ran part of the sequence—some of the steps, not all, enough to know that the machine works when you turn the crank, and tonight you chose to stop turning it, and you are not sure whether this is failure or the thing that comes after failure when failure has taught you something it did not intend to teach.
 
 [end if][if the explored of the player is greater than 3]But you also did something the method did not teach. You talked to the bartender and he told you about a couple who came every Tuesday for thirty years. You listened to the pianist when he stopped playing and heard something the music was saying underneath itself. You noticed the woman in the corner writing in her notebook, and she noticed you, and neither of you looked away. You stood in the restroom and let the mirror show you the version of yourself the gold ceiling was not gilding. These are not data points. These are not IOIs. These are the things that happened while you were busy trying to make something else happen, and they are, you suspect, the evening. Not the method's evening. The actual evening. The one the room was having while you were running your sequence through it.[otherwise if the explored of the player is greater than 1]And there were other things—moments between the method's moments, pauses in the sequence where the room showed you something the sequence did not require you to see. You are not sure what to do with these. The method has no field for them. The field report will not mention them. But you will remember them, or some of them, and the remembering will outlast the method the way the room will outlast you—quietly, without trying, the way real things outlast the performances built on top of them.[end if]
 
@@ -1075,13 +1270,13 @@ Instead of waiting:
 
 But standing still in a beautiful room is not nothing. Standing still while a man plays Cole Porter and the gold ceiling holds the light and the murals watch with their painted eyes—this is something. This is a thing a person can do. The method has no name for it. The method does not count it. And yet this moment, right now, you standing here doing nothing, is the closest you have been all evening to the thing you actually came here for, which is not a number, which is not a close, which is the feeling of being somewhere beautiful and knowing it and not needing anything from it."
 
-Instead of nut-eating:
+Instead of snacking:
 	say "You take a handful of nuts from the bowl. They are warm and salted and they are the only thing in this room that is exactly what they claim to be. The nuts do not have a printed name that changes based on your level of engagement. The nuts are not tracking your warmth. The nuts exist in a state of complete ontological honesty and you are briefly, irrationally envious of the nuts.
 
 You eat them. They are good. This is not part of the method. This is just a man eating nuts in a bar, and the simplicity of it is so foreign to the rest of your evening that it feels almost subversive, like a small act of resistance against the system you have spent eight months building inside your own head."
 
-Understand "eat" or "eat nuts" or "eat the nuts" or "take nuts" or "grab nuts" as nut-eating.
-Nut-eating is an action applying to nothing.
+Understand "eat" or "eat nuts" or "eat the nuts" or "take nuts" or "grab nuts" as snacking.
+Snacking is an action applying to nothing.
 
 Instead of praying:
 	say "You are not a religious person. You have not been a religious person since you were fourteen, which is the age at which you decided that the universe was mechanical and that the mechanics could be understood and that understanding the mechanics was the same as controlling them, which is the same insight the method is built on, which is maybe why you were drawn to it—the method is a theology for people who do not believe in God but do believe in systems.
@@ -1159,15 +1354,15 @@ Remembering is an action applying to nothing.
 
 Section 9 - The Blazer
 
-Instead of blazer-removing the blazer:
+Instead of shedding the blazer:
 	say "You think about taking it off. Not because you are warm—the room is the temperature it has always been, the temperature of old champagne and careful ventilation—but because the blazer is the costume, and the costume is the method, and removing it would be a kind of confession, a man admitting in fabric what he cannot yet admit in language: that the person wearing the blazer is not the person who put it on.
 
 You bought it for ninety dollars and had it tailored for forty more and it fits you perfectly and the fit is one of the method's true things and you are tired of the method's true things, not because they are untrue but because they are true in a way that costs more than they are worth. The blazer fits. The method fits. And you are standing in a room with a gold ceiling wondering whether fit is the same as belonging, and it is not, it is not the same, and the blazer knows this better than you do, because the blazer was a blazer before you bought it and will be a blazer after you hang it in the closet and forget about it, and the forgetting will not diminish the blazer, and the blazer will not miss you.
 
 You keep it on. The keeping-it-on is not courage and not cowardice. It is the decision of a man who is not yet ready to be seen without his costume, which is the decision of most people on most nights, and the normalcy of it is either a comfort or a tragedy depending on the hour."
 
-Understand "take off blazer" or "remove blazer" or "take off jacket" or "remove jacket" as blazer-removing.
-Blazer-removing is an action applying to one visible thing.
+Understand "take off blazer" or "remove blazer" or "take off jacket" or "remove jacket" as shedding.
+Shedding is an action applying to one visible thing.
 
 Part Six - The After
 
@@ -1212,6 +1407,7 @@ Chapter 3 - The Room
 
 Instead of talking to Catherine in the Apartment:
 	increase the apartment-state of the player by 1;
+	credit Catherine by 1;
 	if the apartment-state of the player is 1:
 		say "'Do you want water?' you say. It is not an opener. It is not a neg. It is not a DHV spike. It is a man offering a woman a glass of water because she is in his apartment and it is late and the offering is what you do when you have run out of technique and all that remains is hospitality—the oldest social technology, older than language, older than the method, older than everything: someone is in your home and you give them something to drink.
 
@@ -1266,7 +1462,8 @@ Carry out apartment-touching:
 She gives you her hand. Her hand is warm now. It was cool and dry in the bar, during the compliance test, when the method was measuring it. Now it is warm, and the warmth is not a data point, and you are holding it, and the holding is not a technique.
 
 Your heartbeat is doing something the method never tracked. Your breathing is doing something the method never timed. Your body—the actual body, the one underneath the posture, underneath the blazer, underneath the eight months of study—your body is telling you something it has been trying to tell you all evening, and the something is simple, and the simplicity is terrifying: you want to be close to her. Not strategically. Not sequentially. The wanting is in your hands and your chest and the back of your throat and it has no acronym and it has no score and it is the most real thing that has happened tonight.";
-		now the apartment-state of the player is 4.
+		now the apartment-state of the player is 4;
+	credit Catherine by 2.
 
 Apartment-kissing is an action applying to nothing. Understand "kiss her" or "kiss catherine" or "kiss" as apartment-kissing.
 
@@ -1284,7 +1481,8 @@ The kiss is—
 The kiss is not a technique. The kiss is not a close. The kiss is the first thing tonight that does not have a name in the method's vocabulary and does not need one, because the mouth has its own vocabulary, older than acronyms, older than the forum, older than the book on the shelf between the Murakami and the Gladwell. Her lips are warm and she tastes like the clear drink with the twist of pale lime and underneath that she tastes like herself, like a person, like the specific irreducible fact of another human being, and the fact is not an eight out of ten, the fact is not a variable, the fact is Catherine.
 
 Your hand is on her jaw. Her hand is on the back of your neck. The city is outside the window and the radiator is clicking and Bartleby the cat is at home in her apartment preferring not to and none of this is the method and all of it is the evening and the evening, you realize, is only now beginning. The evening at the bar was the prologue. This is the first page.";
-	now the apartment-state of the player is 5.
+	now the apartment-state of the player is 5;
+	credit Catherine by 3.
 
 Chapter 5 - The Undressing
 
@@ -1443,6 +1641,7 @@ Section 1 - The Relationship Conversations
 
 Instead of talking to Catherine when the relationship is happening:
 	increase the relationship-state of the player by 1;
+	credit Catherine by 2;
 	if the relationship-state of the player is 2:
 		say "Weeks pass. You see her on Thursdays and sometimes Saturdays and once, in a snowstorm in early December, on a Wednesday because she texted [italic type]the city is beautiful and I don't want to look at it alone[roman type] and the sentence broke something in your chest that the method had been holding rigid for eight months.
 
@@ -1834,7 +2033,196 @@ She puts down the red pen. She looks at you over the stack of printouts. The loo
 
 You die again. You respawn. You learn the pattern. You try again. The trying is real. The dying is temporary. The game goes on."
 
-Section 10 - The Endings
+Section 10a - The Optimizer Goes Deeper
+
+Optimizing-more is an action applying to nothing. Understand "optimize" or "keep playing" or "play more" or "check builds" or "read forums" as optimizing-more when the relationship is happening.
+
+Carry out optimizing-more:
+	say "By May you have beaten Margit. You have beaten Godrick. You have beaten Rennala, who is a woman who lives in the middle of a library and throws books at you, and the metaphor is so obvious that Catherine actually looked up from her manuscript when you described the fight and said 'I think I've met Rennala. She runs the imprint at Penguin.' You have beaten things whose names you cannot pronounce and things whose names are just 'Crucible Knight' which is not a name but a job title, like calling someone 'Accountant Greg.'
+
+You have also read the wiki. You have read the wiki the way you once read the forum—thoroughly, obsessively, at two in the morning, cross-referencing pages, building spreadsheets. You have a spreadsheet. The spreadsheet tracks weapon scaling, stat softcaps, and the optimal level to stop investing in vigor. The spreadsheet has seven tabs. Catherine has seen the spreadsheet. Catherine said: 'You have a spreadsheet for a video game.'
+
+'It's a build planner.'
+
+'It has seven tabs.'
+
+'Some of the tabs are for alternative builds.'
+
+'Ethan. It has seven tabs.'
+
+She was not angry. She was doing the thing she does when she finds you endearing and alarming in equal measure, which is the same thing Steve Lee does when he films his brother playing Stardew Valley, which is: documenting something she finds genuinely concerning while also recognizing that the concern and the affection are not separate responses but the same response viewed from different angles. She loves you. The seven tabs concern her. The love and the concern occupy the same chair in the same room, and neither one is going to move.
+
+You have also started watching YouTube guides. The guides are made by men who talk about damage output with the clinical precision of surgeons discussing an operation. They have names like 'FightinCowboy' and 'Iron Pineapple' and they have hundreds of thousands of subscribers and they have mapped the game the way Bobby Lee mapped Pelican Town—every enemy, every drop rate, every edge case, every exception. You watch them the way you once watched the DHV examples on the forum—not for entertainment but for technique, for optimization, for the specific cognitive satisfaction of watching someone who has mastered a system explain the mastery.
+
+Catherine walks past the couch. On the screen, a man named FightinCowboy is explaining the scaling mechanics of the Rivers of Blood katana.
+
+'Is he teaching you how to play?' she asks.
+
+'He's explaining a build.'
+
+'A build.'
+
+'It's like—a character configuration. The stats, the weapons, the armor. How you set everything up so the parts work together.'
+
+She sits on the arm of the couch. She watches FightinCowboy for thirty seconds. He is explaining that the Rivers of Blood katana scales primarily with arcane and that the blood loss buildup procs at a rate of—
+
+'Ethan,' she says.
+
+'Yeah?'
+
+'This is the thing you do.'
+
+'Play games?'
+
+'No. This.' She gestures at the screen, at the spreadsheet minimized behind the game, at the phone on the coffee table open to the wiki. 'You find a system. You study the system. You learn the system's language. You read what other people have written about the system. You build a spreadsheet. You optimize.'
+
+She says this without judgment. She says it the way Dr. Rosen says things—descriptively, as observation, as a naming of what is happening in the room. She is not telling you to stop. She is telling you what she sees.
+
+'The bar,' she says, gently. 'The approach. The story about the horses. That was a build, wasn't it? You had a build for me.'
+
+The room is very quiet. FightinCowboy is still explaining arcane scaling. Bartleby is on the coffee table, sitting on your phone, which is open to the wiki page for Rivers of Blood.
+
+'Yeah,' you say. 'I had a build.'
+
+'And now you have a build for a samurai.'
+
+'Yeah.'
+
+'The builds are the same thing. The thing you do. The part of you that—' she is choosing her words with editorial precision, the way she chooses words when she is editing a sentence she wants to get right, '—that needs to understand the mechanics before it can experience the experience. The part that reads the manual before it opens the box.'
+
+You pause the game. FightinCowboy freezes mid-sentence. The room is quiet except for Bartleby, who is purring on your phone.
+
+'Is that bad?' you say.
+
+She thinks about this. She actually thinks about it, the way she thinks about a sentence—not to give you the right answer but to find the true one, and the right answer and the true one are not always the same answer, and an editor knows this, and a woman who loves you knows this, and Catherine is both.
+
+'No,' she says. 'It's you. It's you the way my thing is sentences. The way Margaux's thing is vanishing. The way Bartleby's thing is sitting on whatever you're trying to use.' She looks at the cat on the phone. 'We're all doing our thing. The question isn't whether the thing is good or bad. The question is—' she pauses, '—whether you're also in the room while you're doing it. Whether you're here. Whether the build is the whole game or whether the build is how you play the game, and the game is the game, and the game is this, the room, the couch, the cat on your phone, the woman on the arm of the couch. Whether you're in the room.'
+
+'I'm in the room,' you say.
+
+'I know,' she says. 'That's why I'm still on the arm of the couch.'
+
+She slides down onto the couch proper. She tucks her feet under your thigh. She opens the Nino manuscript on her lap. You unpause the game. FightinCowboy resumes explaining arcane scaling. Bartleby remains on the phone. The apartment is a room with four living things in it—a man, a woman, a cat, and a YouTuber frozen at 720p—and each of them is doing their thing, and the things are different, and the room holds all of them, and the holding is the evening, and the evening is not optimized, and the not-optimized is the optimization, and the optimization is just living, and the living goes on."
+
+Section 10b - Marcus Watches
+
+Marcus-watching is an action applying to nothing. Understand "invite marcus" or "marcus comes over" or "play with marcus" as marcus-watching when the relationship is happening.
+
+Carry out marcus-watching:
+	say "Marcus comes over on a Friday. Catherine is at a publication dinner. You are playing Elden Ring. Marcus sits on the other end of the couch with a beer and watches.
+
+'What's that,' he says, pointing at the screen.
+
+'Malenia.'
+
+'What's a Malenia.'
+
+'She's the hardest boss in the game. Maybe the hardest boss in any game. She heals when she hits you. She has a move called Waterfowl Dance that kills you in two seconds. She has two phases. Everyone dies to her hundreds of times.'
+
+'How many times have you died to her?'
+
+You do not answer this question.
+
+Marcus watches you fight Malenia. You die in thirty seconds. You respawn. You die in forty-five seconds. You respawn. You die in twelve seconds—a record, in the wrong direction. You respawn.
+
+'Ethan,' Marcus says.
+
+'Yeah.'
+
+'This is—' He gestures with his beer at the screen, at you, at the apartment, at the general situation of a man dying to the same boss over and over in a room that smells like the curry Catherine made last night. 'This is the thing.'
+
+'What thing.'
+
+'The thing. The thing you do. The thing I do. The thing we both do. The—' he takes a sip, '—you know. The studying. The grinding. The reading-the-forums-at-two-in-the-morning thing. The thing where you can't just do a thing, you have to learn the thing, master the thing, find the optimal path through the thing.'
+
+'I have a spreadsheet,' you say.
+
+'Of course you have a spreadsheet.'
+
+'Seven tabs.'
+
+'Of course it's seven tabs.'
+
+He watches you die again. Malenia does the Waterfowl Dance. Your health bar evaporates.
+
+'You know what this reminds me of?' he says.
+
+'Don't say it.'
+
+'The Carlyle.'
+
+'You weren't even there.'
+
+'I know I wasn't there. Work thing. Sorry bro. But I'm here now. And I'm watching you do the exact same thing to a video game boss that you did to a woman in a bar in November, which is: study it, read about it, optimize it, build a spreadsheet, and then die over and over until the pattern clicks.' He finishes his beer. 'Except the video game boss doesn't have feelings.'
+
+'Malenia has feelings. She's Miquella's sister.'
+
+'That's lore, not feelings.'
+
+'The lore IS feelings.'
+
+Marcus laughs. You laugh. Malenia kills you. You respawn.
+
+'Hey,' Marcus says, after a while. 'The woman from the office. The one with the shoes.'
+
+'What about her?'
+
+'Third date. I cooked. Burned the rice. She stayed and helped me clean the pot. Fourth date is Saturday.' He is looking at the beer, not at you. 'I didn't read any forums. I didn't have a build. I just—liked her shoes. And then I liked her. And then I burned rice.'
+
+'That's a good sequence,' you say.
+
+'It's not a sequence,' he says. 'That's the point. It's just things that happened. One after the other. Not optimized. Not planned. Just—things.'
+
+On the screen, you dodge Malenia's Waterfowl Dance for the first time. You do not die. You get her down to half health. Then she enters phase two and becomes a goddess and kills you instantly.
+
+'Progress,' Marcus says.
+
+'Progress,' you say.
+
+He gets another beer. You respawn. The evening continues. Two men on a couch, one playing, one watching, the watcher no longer the wing and the player no longer the operator, just two friends in a room on a Friday, and the room holds them, and the beer is cold, and the dying is temporary, and the game goes on."
+
+Section 10c - The Rabbit Foot
+
+The rabbit foot conversation is a scene. The rabbit foot conversation begins when the margaux-again of the player is greater than 3 and the marcus-state of the player is greater than 1 and the relationship is happening.
+
+When the rabbit foot conversation begins:
+	say "A Sunday in May. You are walking through Central Park with Catherine. The park is green now—that particular early-May green that is too bright, too new, the green of things that have just arrived and have not yet learned to be subtle about it. Bartleby is at home. You did not bring the spreadsheet.
+
+You are near the Bethesda Fountain when Catherine stops. She is looking at something in the grass—a rabbit. A real rabbit, brown, small, sitting under a hedge with the absolute stillness of a creature that believes it is invisible and might be right.
+
+'Look,' she says.
+
+You look. The rabbit looks back. The rabbit has the expression Bemelmans gave the rabbit by the frozen pond—alert, slightly lost, trying to determine whether the situation is safe.
+
+'I never told you about Penny,' Catherine says.
+
+'Who's Penny?'
+
+'In Stardew Valley. There's a farming game—Margaux's nephew plays it. He was telling me about it. Apparently there's a thing in the game where you can give gifts to all the villagers, and there's one item that everyone loves. Everyone in the whole game. A rabbit's foot.'
+
+The rabbit in the grass has not moved. Its ears are up. Its body is completely still.
+
+'Everyone loves the rabbit's foot,' she says. 'Except one character. Penny. Penny doesn't like it. She's the one exception. The one person in the entire system who doesn't respond to the universal solution.'
+
+She is not looking at you. She is looking at the rabbit. The rabbit is looking at both of you with the infinite patience of a small animal that has been looked at by humans before and has learned that the looking usually ends and the humans usually leave and the grass is still there afterward.
+
+'I think I'm Penny,' she says.
+
+The park is very quiet. The green is very bright. The fountain is doing what fountains do, which is moving water from one place to the same place, endlessly, without progress, without accumulation, just the movement, just the sound, just the fact of water being moved because someone built a fountain and the fountain does not stop.
+
+'The rabbit foot thing,' she says. 'The approach, the story, the system. It works on everyone. It's designed to work on everyone. And I didn't—it didn't work on me. Not the system. The system never worked on me. What worked was the part that wasn't the system. The part that was just you, standing in a room, not knowing what to say. The rabbit foot didn't work on Penny. What worked on Penny was the person holding the rabbit foot. The hand, not the foot.'
+
+The rabbit in the grass moves. One small hop. Then another. It disappears under the hedge, unhurried, having decided that the situation was safe enough to leave, which is a different thing from safe enough to stay, and the difference is the whole story.
+
+'I love you,' you say. You have said this before. You have said this in bed, in the kitchen, in the dark, in the morning. But here, in Central Park, in May, with the rabbit gone and the fountain going and the green too bright and the woman beside you who is the one exception to the universal solution—here the words feel new, the way the green feels new, the way the season feels new, the way everything feels new when you stop trying to optimize it and just let it grow.
+
+'I know,' she says. 'I love you too. Even with the spreadsheet.'
+
+'Seven tabs.'
+
+'Seven tabs,' she says, and takes your hand, and the hand is warm, and the park is green, and the rabbit is gone, and the rabbit's foot is on a shelf between a Murakami and a Gladwell, and the shelf is just a shelf, and the book is just a book, and the game goes on."
+
+Section 11 - The Endings
 
 Instead of leaving the Carlyle when the relationship is happening:
 	say "You think about leaving. Not Catherine—just the thought of leaving, the way you sometimes think about rain while standing in the sun, a hypothetical that has no weight, a door you could walk through but won't because the room you are in is warm and the person in it is warm and the cat in it is warm and the warmth is not strategic and not performed and not optimized. The warmth is just warm.
