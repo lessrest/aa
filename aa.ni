@@ -488,6 +488,11 @@ Catherine is unknown.
 
 Catherine has a text called real-name. The real-name of Catherine is "Catherine Alcott".
 
+Does the player mean negging Catherine: it is very likely.
+Does the player mean compliance-testing Catherine: it is very likely.
+Does the player mean isolating Catherine: it is very likely.
+Does the player mean number-closing Catherine: it is very likely.
+
 To say Margaux-or-friend:
 	if Margaux is known:
 		say "Margaux";
@@ -594,7 +599,7 @@ Chapter 1 - Approaching
 
 Section 1 - The Three Second Rule
 
-The three-second rule is a scene. The three-second rule begins when the player is in Bemelmans Bar for the first time. The three-second rule ends when the time since the three-second rule began is 3 minutes.
+The three-second rule is a scene. The three-second rule begins when the player is in Bemelmans Bar for the first time. The three-second rule ends when the time since the three-second rule began is 3 minutes or the interest of Catherine is greater than 0.
 
 When the three-second rule begins:
 	say "You see her immediately. This is what the training does—it re-wires the entrance. You do not scan the room the way a civilian scans a room, looking for a seat, looking for a friend. You scan for the set. And there it is: a two-set at the bar, one target, one obstacle, no male orbiters, open positioning. HB-eight, maybe eight-five in this light.
@@ -605,7 +610,7 @@ You have three seconds. That is the rule. Three seconds between seeing the set a
 	now the confidence of the player is 6.
 
 When the three-second rule ends:
-	if the current action is not opening a set:
+	if the interest of Catherine is 0:
 		say "The three seconds have passed. Then thirty. Then three minutes. You are still standing near the entrance, holding nothing, performing the universal mime of a man who is [italic type]just looking around[roman type]. Your confidence recalibrates downward. The window is not closed—windows do not close, only your willingness to open them—but the glass is thicker now.";
 		decrease the confidence of the player by 2.
 
@@ -777,7 +782,6 @@ Carry out compliance-testing:
 The compliance test has failed. This does not mean the set is lost. It means the sequence needs recalibration—more value, more comfort, a different angle of approach.[end if]";
 	if the warmth of Catherine is greater than 3:
 		increase the interest of Catherine by 1;
-		increase the score by 1;
 	otherwise:
 		decrease the interest of Catherine by 1.
 
@@ -809,7 +813,9 @@ Chapter 7 - Kino Escalation
 
 Section 1 - The Ladder
 
-Kino-escalating is an action applying to nothing. Understand "kino" or "escalate" or "touch" or "kino escalate" or "touch her" as kino-escalating.
+Kino-escalating is an action applying to nothing. Understand "kino" or "escalate" or "kino escalate" as kino-escalating.
+Understand "touch" or "touch her" as kino-escalating when the player is in Bemelmans Bar.
+Understand "touch" or "touch her" as kino-escalating when the player is in the Far End of the Bar.
 
 A person has a number called kino-level. The kino-level of the player is 0.
 
@@ -1048,6 +1054,7 @@ There is one command the method does not teach: LISTEN. It is always available."
 
 Chapter 3 - Listening
 
+Understand the command "listen" as something new.
 Actively-listening is an action applying to nothing. Understand "listen" as actively-listening.
 
 Carry out actively-listening:
@@ -1160,6 +1167,7 @@ Carry out examining oneself in the mirror:
 
 Section 4 - Leaving
 
+Understand the command "leave" as something new.
 Leaving the Carlyle is an action applying to nothing. Understand "leave" or "go home" or "hail cab" or "walk away" or "give up" or "exit" as leaving the Carlyle.
 
 To say learned-Catherine:
@@ -1405,7 +1413,7 @@ Instead of number-closing Catherine in the Apartment:
 
 Chapter 3 - The Room
 
-Instead of talking to Catherine in the Apartment:
+Instead of talking to Catherine in the Apartment when the relationship is not happening:
 	increase the apartment-state of the player by 1;
 	credit Catherine by 1;
 	if the apartment-state of the player is 1:
@@ -1753,7 +1761,9 @@ The eggplant is good. You eat it at her small table by the window, the fire esca
 
 'This is nice,' you say, and the sentence is so ordinary and so insufficient and so exactly right that neither of you says anything else for a while, and the while is comfortable, and the comfort is the evening, and the evening is just an evening, and the just-an-evening is the thing."
 
+Understand the command "walk" as something new.
 Walking-together is an action applying to nothing. Understand "walk" or "walk together" or "go for a walk" or "take a walk" as walking-together.
+Understand "walk away" as leaving the Carlyle.
 
 Check walking-together:
 	if the relationship is not happening:
